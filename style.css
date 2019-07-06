@@ -1,0 +1,38 @@
+
+body {
+  height: 1500px; /* Used to enable scrolling */
+  background: linear-gradient(25deg, #DF6600 60%, #F5EAD8 18%, #F9E7D9 35%);
+  font-family: "VT323", serif;
+  margin: 2em;
+  text-align: center
+}
+
+img {
+  border: 1px;
+  border-style: solid;
+  border-color: black;
+  border-radius: 10px;
+  box-shadow: 5px 5px #DF6600;
+}
+
+h1 {
+  color: #626664;
+}
+
+h2 {
+  color: green;
+}
+
+.attribution {
+  color: #2DA0B5;
+  font-family:Bangers
+}
+
+a {
+  color: #688E1F;
+}
+
+.resize {
+    width: 250px;
+    height: auto;
+}
